@@ -7,4 +7,5 @@ cd .. &&
         ./build/release/tile-renderer-mac --zoom 18 --format png > \
         test/rendered/18-ny-fidi.png &&
     cd test/rendered &&
-    optipng -silent -o3 *
+    optipng -silent -o3 * &&
+    echo "Tiles rendered."

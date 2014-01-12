@@ -1,5 +1,7 @@
 **A simple and efficient tile renderer**
 
+[![Build Status](https://secure.travis-ci.org/ReclaimSoftware/RSTileRenderer.png)](http://travis-ci.org/ReclaimSoftware/RSTileRenderer)
+
 **Input:** [Tiledata](https://github.com/ReclaimSoftware/RSTiledata)
 
 **Output:** 512x512 {PNG,BMP} (@2X resolution assumed.)

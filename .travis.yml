@@ -1,0 +1,8 @@
+language: objective-c
+script: "cd test && bash test.sh && git status | grep 'working directory clean'"
+branches:
+  only:
+    - master
+notifications:
+  email:
+    - andrew@andrewschaaf.com
