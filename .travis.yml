@@ -1,5 +1,5 @@
 language: objective-c
-script: "cd test && bash test.sh && git status | grep 'working directory clean'"
+script: "brew install optipng && cd test && bash test.sh && git status | grep 'working directory clean'"
 branches:
   only:
     - master
