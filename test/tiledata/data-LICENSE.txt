@@ -1,0 +1,7 @@
+This data is (c) OpenStreetMap
+
+It is available under the Open Database License.
+
+http://opendatacommons.org/licenses/odbl/
+
+http://www.openstreetmap.org/copyright

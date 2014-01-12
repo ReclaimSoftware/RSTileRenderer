@@ -1,0 +1,6 @@
+[submodule "upstream/RSTiledata"]
+	path = upstream/RSTiledata
+	url = git@github.com:ReclaimSoftware/RSTiledata.git
+[submodule "upstream/RSVarint"]
+	path = upstream/RSVarint
+	url = git@github.com:ReclaimSoftware/RSVarint.git
