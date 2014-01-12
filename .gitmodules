@@ -1,6 +1,0 @@
-[submodule "upstream/RSTiledata"]
-	path = upstream/RSTiledata
-	url = https://github.com/ReclaimSoftware/RSTileRenderer.git
-[submodule "upstream/RSVarint"]
-	path = upstream/RSVarint
-	url = https://github.com/ReclaimSoftware/RSVarint.git
